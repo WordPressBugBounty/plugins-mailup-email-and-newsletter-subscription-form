@@ -2,7 +2,7 @@
 Contributors: Mailup
 Tags: email marketing, e-mail marketing, newsletter sending, newsletter marketing, email signup, e-mail sign-up, subscription form, subscribe form, registration form, sms signup, newsletter, email, smtp, bulk, sms, send, list, subscribe, form, marketing, widget, plugin, feedburner, subscription, email newsletter form, email widget, emails, newsletter form, newsletter plugin, newsletter signup, newsletter widget, newsletters, signup, iscrizione, mailup
 Requires at least: 5.7.2
-Tested up to: 6.5.3
+Tested up to: 6.8.1
 Requires PHP: 7.2
 Stable tag: 1.2.7
 License: GPLv2 or later
